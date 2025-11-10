@@ -225,6 +225,10 @@ const translationData = {
     {
       "ngeakish": ["ngini"],
       "english": "now"
+    },
+    {
+      "ngeakish": ["ngakak"],
+      "english": "Laughing"
     }
   ]
 };
