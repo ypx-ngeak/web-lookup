@@ -49,6 +49,10 @@ const translationData = {
       "english": "What's up"
     },
     {
+      "ngeakish": ["ngenge ngun"],
+      "english": "What's up now"
+    },
+    {
       "ngeakish": ["ngeak ass"],
       "english": "Neat ass"
     },
@@ -175,6 +179,58 @@ const translationData = {
     {
       "ngeakish": ["nagayk"],
       "english": "I'm tired"
+    },
+    {
+      "ngeakish": ["ngek ye"],
+      "english": "Oh no"
+    },
+    {
+      "ngeakish": ["ngga ngek"],
+      "english": "No worries"
+    },
+    {
+      "ngeakish": ["ngek ngeak"],
+      "english": "Damn it"
+    },
+    {
+      "ngeakish": ["ngi nga"],
+      "english": "I'm from Russia"
+    },
+    {
+      "ngeakish": ["ngya"],
+      "english": "Hey there"
+    },
+    {
+      "ngeakish": ["nggu ngya"],
+      "english": "Wait a moment"
+    },
+    {
+      "ngeakish": ["nggu ngja"],
+      "english": "Just waiting"
+    },
+    {
+      "ngeakish": ["ngda"],
+      "english": "Good Morning"
+    },
+    {
+      "ngeakish": ["ngda ngu"],
+      "english": "I'm stupid"
+    },
+    {
+      "ngeakish": ["Ngda ngu"],
+      "english": "I'm not stupid"
+    },
+    {
+      "ngeakish": ["ngini ngu"],
+      "english": "This idiot"
+    },
+    {
+      "ngeakish": ["ngini nguy"],
+      "english": "This is dangerous"
+    },
+    {
+      "ngeakish": ["ngini ngun"],
+      "english": "This is it"
     }
   ],
   "words": [
@@ -225,6 +281,22 @@ const translationData = {
     {
       "ngeakish": ["ngakak"],
       "english": "Laughing"
+    },
+    {
+      "ngeakish": ["ngeas"],
+      "english": "Hugging"
+    },
+    {
+      "ngeakish": ["ngea ngi"],
+      "english": "Wow"
+    },
+    {
+      "ngeakish": ["nggu ngi"],
+      "english": "Waiting"
+    },
+    {
+      "ngeakish": ["ngaa ngun"],
+      "english": "Why"
     }
   ]
 };
