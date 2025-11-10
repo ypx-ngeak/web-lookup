@@ -1,0 +1,9 @@
+{
+  "name": "ngeakish-translator",
+  "private": true,
+  "version": "1.0.0",
+  "homepage": "./",
+  "scripts": {
+    "build": "node -e \"console.log('Vanilla JS project ready for deployment')\""
+  }
+}
