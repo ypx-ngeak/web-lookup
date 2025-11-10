@@ -203,10 +203,6 @@ const translationData = {
       "english": "Scared"
     },
     {
-      "ngeakish": ["Ngrak"],
-      "english": "Scared"
-    },
-    {
       "ngeakish": ["ngeao"],
       "english": "Hey"
     },
