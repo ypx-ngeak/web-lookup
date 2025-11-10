@@ -191,7 +191,7 @@ const translationData = {
       "english": "Naked"
     },
     {
-      "ngeakish": ["ngaek"],
+      "ngeakish": ["ngaek", "ngek"],
       "english": "Damn"
     },
     {
@@ -221,6 +221,10 @@ const translationData = {
     {
       "ngeakish": ["nggak"],
       "english": "No"
+    },
+    {
+      "ngeakish": ["ngini"],
+      "english": "now"
     }
   ]
 };
