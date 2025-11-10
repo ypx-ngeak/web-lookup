@@ -84,6 +84,22 @@ function renderLookupTable(results) {
   `).join('');
 
   lookupResults.innerHTML = html;
+
+  document.querySelectorAll('.variant').forEach(span => {
+    span.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(span.textContent);
+        span.classList.add('copied');
+        span.title = 'Copied!';
+        setTimeout(() => {
+          span.classList.remove('copied');
+          span.title = '';
+        }, 1000);
+      } catch (err) {
+        console.error('Clipboard copy failed:', err);
+      }
+    });
+  });
 }
 
 document.getElementById('search-input').addEventListener('input', (e) => {
