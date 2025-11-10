@@ -231,6 +231,10 @@ const translationData = {
     {
       "ngeakish": ["ngini ngun"],
       "english": "This is it"
+    },
+    {
+      "ngeakish": ["ngeakse"],
+      "english": "Hanging out"
     }
   ],
   "words": [
@@ -297,6 +301,22 @@ const translationData = {
     {
       "ngeakish": ["ngaa ngun"],
       "english": "Why"
+    },
+    {
+      "ngeakish": ["ngeaks"],
+      "english": "Awesome"
+    },
+    {
+      "ngeakish": ["ngeaya"],
+      "english": "Crying"
+    },
+    {
+      "ngeakish": ["nguya"],
+      "english": "Hello"
+    },
+    {
+      "ngeakish": ["nyas"],
+      "english": "trust"
     }
   ]
 };
