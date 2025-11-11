@@ -1,4 +1,4 @@
-# Ngeakish
+# ngeakish
 "ngeakish", not to be confused with "Ngeakish", is a language born out of the depths of Kingshots translating feature. It all started with "ngeak" which translates to the wonderful and versatile word "Fuck". After that - the hunt began. Hours were spent in the Alliance Chat and DMs to find new words and variations, even sentences started to form. Lists have been shared, copied and expanded. To bring some order to the chaos, we created this project.
 
 As the name beautifully implies, ngeakish ignores the rules of the translator and you can sneak some swear words in, which you would otherwise not be allowed to use.
